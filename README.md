@@ -1,8 +1,7 @@
 # VAEforClustering
 Code in keras
 
-mnist_3.ipynb: conventional vae on 3 digits' data
+mnist.ipynb: example on MNIST dataset using 3 digits' data
 
-mnist_vade3_softmax.ipynb: gaussian mixture vae on 3 digits' data with an outlier class (a mixture of the remaining 7 digits' data)
-
-toy_*.ipynb: experiments on synthetic data		
+aws_toy_truncated_GM-VAE.ipynb: tGM-VAE on simulated dynamic correlation matrices
+		
