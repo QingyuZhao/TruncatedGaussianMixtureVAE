@@ -1,4 +1,4 @@
-# VAEforClustering
+# truncated Gaussian-Mixutre Variational AutoEncoder
 Code in keras
 
 mnist.ipynb: example on MNIST dataset using 3 digits' data
