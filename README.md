@@ -2,10 +2,10 @@
 Code in keras
 
 ## Toy example on MNIST
-	mnist.ipynb: A proof-of-concept example. tGM-VAE was applied to identify 3 clusters of images linked to 3 randomly selected digits. Images of the remaining 7 digits were randomly sampled as noise/minor-clusters.
+mnist.ipynb: A proof-of-concept example. tGM-VAE was applied to identify 3 clusters of images linked to 3 randomly selected digits. Images of the remaining 7 digits were randomly sampled as noise/minor-clusters.
 
 ## Synthetic experiments on rs-fMRI data
-	aws_toy_truncated_GM-VAE.ipynb: tGM-VAE was applied to cluster dynamic correlation matrices derived from synthetic rs-fMRI signals using a sliding window approach.
+aws_toy_truncated_GM-VAE.ipynb: tGM-VAE was applied to cluster dynamic correlation matrices derived from synthetic rs-fMRI signals using a sliding window approach.
 	
 ## Reference
 
